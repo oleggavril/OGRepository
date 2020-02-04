@@ -12,5 +12,10 @@ namespace Lesson1
         {
             Console.WriteLine("Test");
         }
+
+        static void Method2()
+        {
+            Console.WriteLine("Some another text for conflict here");
+        }
     }
 }
