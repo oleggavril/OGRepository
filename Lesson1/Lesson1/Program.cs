@@ -10,7 +10,12 @@ namespace Lesson1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("TestInNewBranch");
+        }
+
+        static void Method1()
+        {
+            Console.WriteLine("TestNewBranchMasterOnly")
         }
     }
 }
