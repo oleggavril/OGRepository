@@ -17,5 +17,10 @@ namespace Lesson1
         {
             Console.WriteLine("TestNewBranchMasterOnly")
         }
+
+        static void Method2()
+        {
+            Console.WriteLine("Some another text for conflict here");
+        }
     }
 }
