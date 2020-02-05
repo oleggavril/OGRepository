@@ -9,5 +9,6 @@ namespace Lesson1
     class ToBeDeleted
     {
         //smth here
+        //and here as well!
     }
 }
