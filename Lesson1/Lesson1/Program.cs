@@ -15,7 +15,7 @@ namespace Lesson1
 
         static void Method1()
         {
-            //CHANGE HERE FOR MASTER
+            //Another change here...
             Console.WriteLine("TestNewBranchMasterOnly");
         }
 
