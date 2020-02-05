@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileToBeDel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProgramPlus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
